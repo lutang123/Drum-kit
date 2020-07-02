@@ -1,3 +1,5 @@
 # Drum-kit
 
-A website that can display drum by click or tap on keyboard (html, CSS, Javascript and DOM).
+About
+
+A website that can play drum by clicking or tapping on keyboard (html, CSS, Javascript and DOM).
